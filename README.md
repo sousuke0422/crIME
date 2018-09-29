@@ -80,3 +80,5 @@ Public Domain.  See the comment in
 
 UNICODE, INC. LICENSE AGREEMENT.
 See each file header for details.
+_________________________________________________________________
+sousukeによって新規で書かれた物は、MIT Licenseが適応されます。
