@@ -13,8 +13,7 @@ Build Status
 
 |Android + OS X + Linux + NaCl |Windows |
 |:----------------------------:|:------:|
-[![Build Status](https://travis-ci.org/google/mozc.svg?branch=master)](https://travis-ci.org/google/mozc) |[![Build status](https://ci.appveyor.com/api/projects/status/gb5cyxbjm81ygfdg?svg=true)]
-(https://ci.appveyor.com/project/sousuke0422/crime) |
+[![Build Status](https://travis-ci.org/google/mozc.svg?branch=master)](https://travis-ci.org/google/mozc) | [![Build status](https://ci.appveyor.com/api/projects/status/gb5cyxbjm81ygfdg/branch/master?svg=true)](https://ci.appveyor.com/project/sousuke0422/crime/branch/master) |
 
 What's Mozc?
 ------------
